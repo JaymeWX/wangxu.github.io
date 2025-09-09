@@ -1,5 +1,5 @@
 ---
-title: "Local-Global Sparse Transformer for Road Extraction from Remote Sensing Imagery (Minor Revision)"
+title: "Local-Global Sparse Transformer for Road Extraction from Remote Sensing Imagery"
 collection: publications
 category: manuscripts
 permalink: /publication/TGRS2025-LGSTNet
